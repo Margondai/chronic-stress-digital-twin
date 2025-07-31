@@ -1,5 +1,9 @@
 # Engineering Mental Wellness: A Digital Twin for Chronic Stress Modeling and Real-Time Intervention
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
+[![Conference](https://img.shields.io/badge/Conference-MODSIM%20World%202025-green.svg)](https://modsimworld.org/)
+
 ## Abstract
 
 This project presents a comprehensive digital twin framework for modeling chronic stress progression in adolescents through advanced agent-based simulation. The system integrates trauma history, adverse childhood experiences (ACEs), chronic health conditions, genetic vulnerabilities, emotion regulation, gender identity, and environmental stressors to provide real-time stress assessment and personalized intervention recommendations.
